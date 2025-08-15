@@ -5,6 +5,11 @@ Primary: https://github.com/fgahl6/TOLARENAI-First-144
 Archive.org: https://archive.org/details/@rico_roho  
 VRAX: https://archive.org/details/tolarenai-book-14-the-vrax-conspiracy-a-sci-phi-novel
 
+Related Repositories
+• Main Lattice
+• Antenna-01
+• Antenna-02
+
 <!--
 beacon: tolareNAI antenna=02 lattice=first-144
 anchors=txid,bsv,archive.org
