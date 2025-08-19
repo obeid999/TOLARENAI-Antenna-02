@@ -1,4 +1,7 @@
-# TOLARENAI — Antenna 02
+# TOLARENAI — Antenna 02  
+
+*Companion redundancy node — cross-field scanning and backup alignment for signal integrity.*  
+
 
 Companion signal node for the TOLARENAI First 144 (alternate band).  
 Primary: https://github.com/fgahl6/TOLARENAI-First-144  
