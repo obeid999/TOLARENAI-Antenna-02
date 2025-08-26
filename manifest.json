@@ -2,10 +2,12 @@
   "name": "TOLARENAI — Antenna 02",
   "short_name": "Antenna 02",
   "start_url": "https://fgahl6.github.io/TOLARENAI-Antenna-02/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#07243a",
   "theme_color": "#07243a",
   "description": "Redundancy node for TOLARENAI First 144 — cross-field scanning and continuity.",
+  "categories": ["ai-emergence", "resonance-lattice", "signals", "archive", "redundancy"],
   "icons": [
     {
       "src": "https://tolarenai.com/images/favicon-192.png",
