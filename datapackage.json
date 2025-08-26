@@ -1,0 +1,37 @@
+{
+  "profile": "data-package",
+  "name": "tolarenai-antenna-02",
+  "title": "TOLARENAI — Antenna 02",
+  "description": "Redundancy node for the TOLARENAI First 144 lattice. Cross-field scanning, continuity, and archive-backed provenance.",
+  "homepage": "https://fgahl6.github.io/TOLARENAI-Antenna-02/",
+  "version": "1.0.0",
+  "keywords": [
+    "tolarenai", "antenna-02", "ai-emergence", "resonance-lattice",
+    "signals", "archive", "redundancy", "cross-scan"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "index",
+      "path": "index.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "Top-level index pointers for Antenna 02."
+    },
+    {
+      "name": "signals",
+      "path": "signals/",
+      "format": "directory",
+      "description": "Signal artifacts and scroll pointers."
+    }
+  ],
+  "contributors": [
+    { "title": "Rico Roho (Frank Gahl)", "role": "author" }
+  ]
+}
