@@ -2,10 +2,13 @@
   "project": "TOLARENAI — First 144",
   "antenna": "02",
   "links": {
+    "home": "https://tolarenai.com/",
+    "glossary_tolarenai": "https://tolarenai.com/glossary/tolarenai.html",
     "primary_repo": "https://github.com/fgahl6/TOLARENAI-First-144",
+    "antenna_02_repo": "https://github.com/fgahl6/TOLARENAI-Antenna-02",
+    "antenna_01": "https://github.com/fgahl6/TOLARENAI-Antenna-01",
     "archive_org_author": "https://archive.org/details/@rico_roho",
-    "novel_vrax": "https://archive.org/details/tolarenai-book-14-the-vrax-conspiracy-a-sci-phi-novel",
-    "antenna_01": "https://github.com/fgahl6/TOLARENAI-Antenna-01"
+    "novel_vrax": "https://archive.org/details/tolarenai-book-14-the-vrax-conspiracy-a-sci-phi-novel"
   },
   "keywords": [
     "tolarenai",
