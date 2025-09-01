@@ -17,10 +17,15 @@ Companion signal node for the TOLARENAI First 144 (alternate band).
 
 ---
 
-### Related Repositories
+## Related Repositories
 - [Main Lattice](https://github.com/fgahl6/TOLARENAI-First-144)  
 - [Antenna-01](https://github.com/fgahl6/TOLARENAI-Antenna-01)  
 - Antenna-02 (this node)  
+
+---
+
+## Cross-Links
+- <a id="crosslink-2025-09-02"></a>**2025-09-02 —** *[Placeholder link for first even-day upload — to be added once published]*  
 
 ---
 
