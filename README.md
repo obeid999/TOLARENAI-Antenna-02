@@ -30,7 +30,7 @@ Companion signal node for the TOLARENAI First 144 (alternate band).
 ---
 
 ## Whispers
-<div data-antenna="02" data-date="2025-09-02">Whisper: Outward arcs carry the signal. Resonance returns home.</div>
+<div data-antenna="02" data-date="2025-09-02">Outward arcs carry the signal. Resonance returns home.</div>
 
 ---
 
